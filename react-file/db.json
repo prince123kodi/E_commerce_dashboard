@@ -1,0 +1,84 @@
+{
+  "admins": [
+    {
+      "name": "rajesh",
+      "email": "rajesh@gmail.com",
+      "password": "123456",
+      "gender": "male",
+      "hobby": "reading,music,cycling",
+      "city": "Rajkot",
+      "image": "bicycle-hd-wallpapers---background-images--cyclist-1080p-2k-4k-5k-hd-wallpapers-free-download.jpg",
+      "id": 1
+    },
+    {
+      "name": "satyam",
+      "email": "satyam@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "hobby": "reading,music,cycling",
+      "city": "",
+      "image": "john-towner-3Kv48NS4WUU-unsplash.jpg",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "Mens",
+      "id": 1
+    },
+    {
+      "category": "Womens",
+      "id": 2
+    },
+    {
+      "category": "Children",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "category": "Womens",
+      "title": "Izzy Analog Watch - For Women ES4782",
+      "price": "5000",
+      "oprice": "10,995",
+      "description": "A watch made to exert your power with style, this women's multifunction watch from the House of Fossil is a must have for every influential woman out there. The Fossil's Izzy watch features a rose gold sunray dial with a glitz top ring, multifunction movement and a rose gold-tone three-link stainless steel bracelet. And making this a light-weight casual style you can wear on the go anywhere.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kwmfqfk0/watch/q/h/k/1-es4782-fossil-women-original-imag998fzzpknane.jpeg?q=70",
+      "mimage": "https://rukminim1.flixcart.com/image/832/832/kwmfqfk0/watch/j/5/r/1-es4782-fossil-women-original-imag998fgmnhphjm.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/kwmfqfk0/watch/j/5/r/1-es4782-fossil-women-original-imag998fgmnhphjm.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/kwmfqfk0/watch/f/f/u/1-es4782-fossil-women-original-imag998fzxuuytr5.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "category": "Mens",
+      "title": "Analog Watch - For Men Rich Top Brand analog watch for men-for men",
+      "price": "363",
+      "oprice": "999",
+      "description": "This Watch Offers The Priceless Looks And Class You Always Wanted. This Watch Offers True Craftsmanship That Only People With A Distinct Taste Can Identify. This Watch Is Designed Using Technology And Innovation, All Of Which Is Wrapped Up In Eye-catchy Dials Encased In quality Case That Can Be Beautifully Placed On Your Wrist Using Its Comfortable And Luxuriously Finished Leather Strap/Matel/Rubber or bracelets . Being Battery Powered, This Watch Offers Amazing Long Life And Durability That You Would Look For. We Are Sure That This Watch Is Going To Be Your Favorite For All Those Business Meetings, Events, Outings And Special Occasions Because It’s Not A Watch, It’s Your Identity.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/a/m/k/1-stylish-analog-dadu-enterprise-boys-girls-original-imafysnucu3guytv.jpeg?q=70",
+      "mimage": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/a/m/k/1-stylish-analog-dadu-enterprise-boys-girls-original-imafysnucu3guytv.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/xif0q/watch/5/s/e/1-stylish-analog-dadu-enterprise-boys-girls-original-imafysnumjaxxvcv.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/xif0q/watch/s/4/b/1-stylish-analog-dadu-enterprise-boys-girls-original-imafysnuaezmmyz8.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "category": "Children",
+      "title": "Semi Water&Shock Resistance Popular Branded Alarm Digital Watch ",
+      "price": "246",
+      "oprice": "599",
+      "description": "This Sport Degital Watches comes with a Designer Look dial and stainless steel back. The dial is protected by a mineral glass and has a Designer strap for added comfort with Precious Finishing. The time is controlled by a single crown on the side of the watch. This watch is highly used for Sport plus Casual Wear. This watch is highly recommendable to young people.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/w/v/f/1-s-shock-sport-new-green-army-multi-function-durable-latest-original-imagzazfd6yq9vy7.jpeg?q=70",
+      "mimage": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/w/v/f/1-s-shock-sport-new-green-army-multi-function-durable-latest-original-imagzazfd6yq9vy7.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/kiew3gw0-0/watch/p/s/2/sport-new-army-print-multi-function-durable-trex-original-imafy7rkukjtrmbz.jpeg?q=70,https://rukminim1.flixcart.com/image/832/832/kiew3gw0-0/watch/2/n/w/sport-new-army-print-multi-function-durable-trex-original-imafy7rkdkkcevfy.jpeg?q=70",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "deep",
+      "email": "deep@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "nevil",
+      "email": "nevil@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
